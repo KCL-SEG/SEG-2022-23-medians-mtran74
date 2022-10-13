@@ -1,6 +1,5 @@
 """Median calculator."""
 """ENTER YOUR SOLUTION HERE!"""
-from statistics import median
 
 
 while True:
